@@ -1,9 +1,10 @@
+![Karthik Mahalingam](assets/IMGL1580.jpg)
 ### EDUCATION
-- **Arizona State University (GPA 3.78/4)** | Tempe, USA | _January 2024 – December 2025_                                                                            
+- **Arizona State University (GPA 3.78/4)** | **Tempe, USA** | **_January 2024 – December 2025_**                                                                            
   - Masters in Data Science, Analytics and Engineering (Computing and Decision Analytics) 
   - Coursework: Data Mining, Statistical Machine Learning and Information Assurance & Security                                                                                          
 
-- **SASTRA University (GPA 3.7/4)** | Thanjavur, India | _June 2018 – July 2022_                	                       	                          
+- **SASTRA University (GPA 3.7/4)** | **Thanjavur, India** | **_June 2018 – July 2022_**                	                       	                          
   - Bachelor of Technology in Mechanical Engineering with Honors                                              
   - Coursework: Problem solving and Programming in C, Object Oriented programming in C++, Engineering Mathematics, Statistical Methods, Resource Management, Mechatronics, 
     Mathematical Modeling of manufacturing process, Industrial Robotics and Production Planning and Control
