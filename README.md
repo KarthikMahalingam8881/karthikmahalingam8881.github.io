@@ -1,4 +1,4 @@
-###**EDUCATION**
+### **EDUCATION**
 - Arizona State University (GPA 3.78/4) | Tempe, USA | January 2024 – December 2025                                                                            
   - Masters in Data Science, Analytics and Engineering (Computing and Decision Analytics) 
   - Coursework: Data Mining, Statistical Machine Learning and Information Assurance & Security                                                                                          
@@ -8,19 +8,19 @@
   - Coursework: Problem solving and Programming in C, Object Oriented programming in C++, Engineering Mathematics, Statistical Methods, Resource Management, Mechatronics, 
     Mathematical Modeling of manufacturing process, Industrial Robotics and Production Planning and Control
 
-###**TECHNICAL SKILLS**
+### **TECHNICAL SKILLS**
 - Programming: Python-Numpy, Pandas, Sklearn, Matplotlib, Seaborn, TensorFlow, Spacy, nltk, Keras and PyTorch, Web Scraping using BeautifulSoup and Selenium, Java, C, C++ And    SQL in MySQL, and PostgreSQL; 
 - Other Technical Skills: Tableau and Microsoft Office (Excel, Word, Outlook, PowerPoint)
 
 
-###**PROFESSIONAL EXPERIENCE**
+### **PROFESSIONAL EXPERIENCE**
 - Cognizant, Chennai | October 2022 – December 2023                          
   - Performed data analysis, data cleaning, and data visualization on diverse datasets such as credit scores and insurance data, facilitating informed decision-making and insights generation.
   - Tested various APIs using Java, Selenium, and SQL to ensure functionality and performance. And Conducted automation testing of the Toyota dealership website to streamline processes and improve efficiency.
   - Provided training and mentorship to two associates on SQL and Java, enhancing their skills and contributing to team development.
 
 
-###**PROJECTS**
+### **PROJECTS**
 Energy consumption forecasting | January 2024 – May 2024
   - Focused on developing a predictive model for energy usage, this project employs Data Cleaning, Feature Engineering, and advanced neural networks like LSTM and Transformers. These techniques enhance model accuracy and operational decision-making in energy consumption forecasting.
   - Sentiment Analysis with DistilBERT on App reviews	|  May 2024 – July 2024					          
