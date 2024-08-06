@@ -2,7 +2,7 @@ title: Karthik Mahalingam
 logo: assets/Karthik.jpeg
 show_downloads: false
 theme: jekyll-theme-minimal
-github_profile: false
+#github_profile: false
 links:
  -title: LinkedIn
   url: www.linkedin.com/in/karthik-mahalingam 
