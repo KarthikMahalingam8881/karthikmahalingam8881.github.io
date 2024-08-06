@@ -14,7 +14,7 @@
 
 
 ### PROFESSIONAL EXPERIENCE
-- **Cognizant, Chennai** | **_October 2022 – December 2023_**                          
+- **Cognizant, Chennai**   |   **_October 2022 – December 2023_**                          
   - Performed data analysis, data cleaning, and data visualization on diverse datasets such as credit scores and insurance data, facilitating informed decision-making and insights generation.
   - Tested various APIs using Java, Selenium, and SQL to ensure functionality and performance. And Conducted automation testing of the Toyota dealership website to streamline processes and improve efficiency.
   - Provided training and mentorship to two associates on SQL and Java, enhancing their skills and contributing to team development.
