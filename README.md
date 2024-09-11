@@ -1,10 +1,10 @@
 ### EDUCATION
 -  **Masters in Data Science, Analytics and Engineering (Computing and Decision Analytics)** | **_December 2025_**                                                                            
-  -  Arizona State University **(GPA 3.78/4)** | Tempe, USA |
+Arizona State University **(GPA 3.78/4)** | Tempe, USA |
   - **Coursework:** Data Mining, Statistical Machine Learning and Information Assurance & Security                                                                                          
 
 -  **Bachelor of Technology in Mechanical Engineering with Honors** | **_July 2022_**                	                       	                          
-  - SASTRA University **(GPA 3.7/4)** | Thanjavur, India                                              
+SASTRA University **(GPA 3.7/4)** | Thanjavur, India                                              
   - **Coursework:** Programming in C, Object-Oriented Programming in C++, Engineering Mathematics, Statistical Methods, Resource Management, Mechatronics, Mathematical Modeling of Manufacturing 
     Process, Industrial Robotics, and Production Planning and Control.
 
@@ -33,8 +33,8 @@
     - For more details about the project, visit the repository - [Optimizing Credit Card Fraud Detection](https://github.com/KarthikMahalingam8881/Credit-Card-Fraud-Detection)
  
 ### PROFESSIONAL EXPERIENCE
-- **Programmer Analyst Trainee** | **_October 2022 – December 2023_**
-- **Cognizant**  |  **Chennai, India**                              
+- **Cognizant** | **_October 2022 – December 2023_**
+- Programmer Analyst Trainee  |  Chennai, India                              
   - Analyzed and cleaned 600K credit score and insurance records. Extracted data from SQL and used Python to reduce processing time by 70%.
   - Tested various APIs using Java, Selenium, and SQL to ensure functionality and performance. and Followed Agile methodology to manage projects and deliver high-quality solutions.
   - Led automation testing of a Toyota dealership website, reducing manual testing time by 85% and identifying 35% more defects, thereby improving efficiency and streamlining processes.
