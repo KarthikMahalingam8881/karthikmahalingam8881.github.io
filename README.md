@@ -1,4 +1,4 @@
-### (623) 230-9825 • ### karthik.mahalingam00@gmail.com • ### www.linkedin.com/in/karthik-mahalingam 
+## karthik.mahalingam00@gmail.com • (623) 230-9825 •  www.linkedin.com/in/karthik-mahalingam 
 ### EDUCATION
 -  **Masters in Data Science, Analytics and Engineering (Computing and Decision Analytics)** | **_December 2025_**                                                                            
 Arizona State University **(GPA 3.78/4)** | Tempe, USA
