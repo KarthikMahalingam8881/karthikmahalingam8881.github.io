@@ -44,8 +44,9 @@ SASTRA University **(GPA 3.7/4)** | Thanjavur, India
  
 ### PROFESSIONAL EXPERIENCE
 - **Cognizant** | **_October 2022 – December 2023_**       
-        Programmer Analyst Trainee  |  Chennai, India                              
-  - **Analyzed and cleaned 600K** credit score and insurance records. Extracted data from SQL and used Python to **reduce processing time by 70%**.
-  - Tested various APIs using Java, Selenium, and SQL to ensure functionality and performance. and Followed Agile methodology to manage projects and deliver high-quality solutions.
-  - Led automation testing of a Toyota dealership website, **reducing manual testing time by 85% and identifying 35% more defects**, thereby improving efficiency and streamlining processes.
-  - Provided training and mentorship to two associates on SQL and Java, enhancing skills and contributing to team development.
+        Technical Data Analyst  |  Chennai, India                              
+  - Optimized processing of 600K credit score and insurance records, streamlining data extraction from SQL and reducing processing time by 70% using Python
+  - Conducted performance validation on APIs using Java, Selenium, and SQL to ensure functionality and performance. Followed Agile methodology to manage projects and deliver high-quality solutions
+  - Spearheaded automation testing, of a Toyota dealership website, reducing manual testing time by 85% and identifying 35% more defects, thereby improving efficiency and streamlining processes
+  - Mentored and empowered associates in SQL and Java, enhancing skills and contributing to team development
+
