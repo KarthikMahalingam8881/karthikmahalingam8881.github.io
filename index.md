@@ -28,7 +28,7 @@ SASTRA University **(GPA 3.7/4)** | Thanjavur, India
 - **Energy consumption forecasting, Class Project** | **_January 2024 – May 2024_**
   - Developed a time-series predictive model for energy usage with Python, Pandas, and TensorFlow, **analyzing 15,000 entries**. Used RandomForest, Logistic Regression, KNN, SVM, LSTM, and Transformers to **boost prediction accuracy by 25%**, improving forecasting and decision-making.
   - **Related Resources**
-      - [Energy consumption forecasting]((https://github.com/KarthikMahalingam8881/Energy-consumption-forecasting-code))
+      - [Energy consumption forecasting](https://github.com/KarthikMahalingam8881/Energy-consumption-forecasting-code)
 - **Sentiment Analysis with DistilBERT on App reviews, Personal Project** | **_May 2024 – July 2024_**					          
   - Constructed and implemented a sentiment analysis model to evaluate over **6,000 user reviews** from five productivity apps by deploying the Google Play Scraper API. Optimized preprocessing for efficient CPU performance and implemented the model using PyTorch, **achieving a 15% improvement** in sentiment classification accuracy and identifying key app features impacting user satisfaction.
   - **Related Resources**
