@@ -11,7 +11,7 @@ title: Home
 -  **Masters in Data Science, Analytics and Engineering (Computing and Decision Analytics)** | **_December 2025_**                                                                            
 Arizona State University **(GPA 3.78/4)** | Tempe, USA
 
-**Coursework:** Data Mining, Statistical Machine Learning and Information Assurance and Security                                                                                          
+**Coursework:** Data Mining, Statistical Machine Learning and Statistics for Data Analysts                                                                                          
 
 -  **Bachelor of Technology in Mechanical Engineering with Honors** | **_July 2022_**                	                       	                          
 SASTRA University **(GPA 3.7/4)** | Thanjavur, India
@@ -19,7 +19,7 @@ SASTRA University **(GPA 3.7/4)** | Thanjavur, India
 **Coursework:** Programming in C, Object-Oriented Programming in C++, Engineering Mathematics, Statistical Methods, Resource Management, Mechatronics, Mathematical Modeling of Manufacturing Process, Industrial Robotics, and Production Planning and Control.
 
 ### TECHNICAL SKILLS
-- **Programming:** Python - NumPy, pandas, scikit-learn, Matplotlib, Seaborn, TensorFlow, spaCy, NLTK, Keras, and PyTorch, Web scraping using BeautifulSoup and Selenium, Java, C, C++ and SQL (MySQL and PostgreSQL);  
+- **Programming:** Python - NumPy, pandas, scikit-learn, Matplotlib, Seaborn, TensorFlow, spaCy, NLTK, Keras, and PyTorch, PySpark, Web scraping using BeautifulSoup and Selenium, Java, C, C++ and SQL (MySQL and PostgreSQL);  
 - **Other Technical Skills:** Tableau and Microsoft Office (Excel, Word, Outlook, PowerPoint)
 
 
