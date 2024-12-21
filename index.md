@@ -40,13 +40,13 @@ SASTRA University **(GPA 3.7/4)** | Thanjavur, India
   - Insights facilitated improved user engagement strategies for the Spotify platform.
   - **Related Resources**
       - [Spotify Music Popularity Analysis]()
-- **Text and Sentiment Analysis of Donald Trump Rally Speeches, Personal Project** | **_May 2024 – June 2024_**		         
+- **Text and Sentiment Analysis of Political Rally Speeches** | **_May 2024 – June 2024_**		         
   - Executed sentiment analysis on over 30 rally speeches (18,000 tokens each), leveraging complex data sets and quantitative analysis using Python (NLTK, SpaCy).
   - Applied data visualization techniques to extract sentiment trends and word frequencies, optimizing summarization using BART and parallel processing to reduce summarization time by 30%.
   - Findings contributed to better understanding of public sentiment trends in political contexts.
   - **Related Resources**
     - [Text and Sentiment Analysis of Donald Trump Rally Speeches](https://github.com/KarthikMahalingam8881/Donald-Trump-Text-and-Sentiment-Analysis)
-- **Optimizing Credit Card Fraud Detection, Class Project** | **_January 2024 – May 2024_**					    
+- **Optimizing Credit Card Fraud Detection** | **_January 2024 – May 2024_**					    
   - Designed and built a credit card fraud detection system using quantitative analysis on 280,000 transactions, applying modeling techniques (RandomForest, neural networks, logistic regression).
   - Improved detection accuracy by 20% and decreased false positives by 15% through data manipulation and feature engineering with Python.
   - Results supported fraud mitigation strategies, reducing financial risks for credit providers.
