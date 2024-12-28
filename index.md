@@ -56,7 +56,7 @@ SASTRA University **(GPA 3.7/4)** | Thanjavur, India
   - Constructed and implemented a sentiment analysis model to evaluate over **6,000 user reviews** from five productivity apps by deploying the Google Play Scraper API.
   - Optimized preprocessing for efficient CPU performance and implemented the model using PyTorch, **achieving a 15% improvement** in sentiment classification accuracy and identifying key app features impacting user satisfaction.
   - **Related Resources**
-    - [Sentiment Analysis with DistilBERT on App reviews](https://github.com/KarthikMahalingam8881/Sentiment-Analysis-of-App-Reviews-using-DistilBERT-)
+    - [Sentiment Analysis with DistilBERT on App reviews](https://github.com/KarthikMahalingam8881/Sentiment-Analysis-of-App-Reviews-using-DistilBERT)
 
 ### PROFESSIONAL EXPERIENCE
 - **Cognizant** | **_October 2022 – December 2023_**
