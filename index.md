@@ -30,13 +30,13 @@ SASTRA University **(GPA 3.7/4)** | Thanjavur, India
 ### PROJECT EXPERIENCE
 - **Energy consumption forecasting** | **_January 2024 – May 2024_**
   - Engineered a time-series predictive model using XGBoost and deep learning (LSTM), **achieving a 15% improvement** in accuracy.
-  - Identified **$223,110** in potential annual savings through quantitative analysis of energy inefficiencies across 24 buildings, **contributing to 30% of energy costs**.
+  - Identified $223,110 in potential annual savings through quantitative analysis of energy inefficiencies across 24 buildings, **contributing to 30% of energy costs**.
   - These findings supported strategic decision-making in energy optimization, reducing operational costs.
   - **Related Resources**
       - [Energy consumption forecasting](https://github.com/KarthikMahalingam8881/Energy_Consumption_Forecasting)
 - **Spotify Music Popularity Analysis** | **_October 2024 – December 2024_**
   - Analyzed Spotify data using feature engineering, statistical tests, and ML models (**84.3% accuracy**) to predict popularity and classify moods.
-  - Identified 5 emerging artists with a** 30% stream growth potential** and optimized playlists for **15% higher engagement**.
+  - Identified 5 emerging artists with a **30% stream growth potential** and optimized playlists for **15% higher engagement**.
   - Insights facilitated improved user engagement strategies for the Spotify platform.
   - **Related Resources**
       - [Spotify Music Popularity Analysis](https://github.com/KarthikMahalingam8881/Spotify-Music-Popularity-Analysis)
@@ -65,6 +65,6 @@ SASTRA University **(GPA 3.7/4)** | Thanjavur, India
   - Optimized processing of 600K credit score and insurance records, **reducing processing time by 70%** using Python and SQL, demonstrating technical proficiency, attention to detail, and problem-solving
   - Presented actionable insights from data analysis to stakeholders using data visualization tools like Tableau, **enhancing data driven decision-making efficiency by 25%** and aligning solutions with organizational objectives
   - Conducted performance validation on APIs leveraging Java, Selenium, and SQL, ensuring functionality and performance through Agile methodology and cross-functional collaboration
-  - Spearheaded automation testing for various websites, reducing testing time by 85% and identifying 35% more defects, showcasing efficiency and innovation
+  - Spearheaded automation testing for various websites, **reducing testing time by 85% and identifying 35% more defects**, showcasing efficiency and innovation
   - Mentored associates in SQL and Java, **enhancing team productivity by 20%** through collaboration and technical training
 
