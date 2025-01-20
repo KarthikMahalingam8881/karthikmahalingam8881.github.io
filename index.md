@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-- Email: [karthik.mahalingam00@gmail.com](mailto:kmahali2@asu.edu)
+- Email: [kmahali2@asu.edu](mailto:kmahali2@asu.edu)
 - Phone: (623) 230-9825
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/karthik-mahalingam/)
 
