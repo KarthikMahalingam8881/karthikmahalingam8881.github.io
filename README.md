@@ -6,7 +6,7 @@ Arizona State University **(GPA 3.78/4)** | Tempe, USA
 **Coursework:** Data Mining, Statistical Machine Learning and Statistics for Data Analysts                                                                                          
 
 -  **Bachelor of Technology in Mechanical Engineering with Honors** | **_July 2022_**                	                       	                          
-SASTRA University **(GPA 3.7/4)** | Thanjavur, India
+SASTRA University **(GPA 3.6/4)** | Thanjavur, India
                                               
 **Coursework:** Programming in C, Object-Oriented Programming in C++, Engineering Mathematics, Statistical Methods and Resource Management
 
@@ -58,7 +58,7 @@ SASTRA University **(GPA 3.7/4)** | Thanjavur, India
   - Presented actionable insights from data analysis to stakeholders using data visualization tools like Tableau, **enhancing data driven decision-making efficiency by 25%** and aligning solutions with organizational objectives
   - Conducted performance validation on APIs leveraging Java, Selenium, and SQL, ensuring functionality and performance through Agile methodology and cross-functional collaboration
   - Spearheaded automation testing for various websites, **reducing testing time by 85% and identifying 35% more defects**, showcasing efficiency and innovation
-  - Mentored associates in SQL and Java, **enhancing team productivity by 20%** through collaboration and technical training
+  - Mentored associates in SQL and Python, **enhancing team productivity by 20%** through collaboration and technical training
 
 
 
